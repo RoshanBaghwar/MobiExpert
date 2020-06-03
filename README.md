@@ -1,4 +1,4 @@
-# MobiExpert---AI-Project
+# MobiExpert : AI-Project
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 An Artificial Intelligence Project which reccomends mobile phones to a user according to his style of usage.
